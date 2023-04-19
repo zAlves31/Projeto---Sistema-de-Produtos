@@ -1,7 +1,7 @@
 ﻿int opcao;
-string[] produto = new string[5];
-string[] preco = new string[5];
-bool[] resposta = new bool[5];
+string[] produto = new string[10];
+string[] preco = new string[10];
+bool[] resposta = new bool[10];
 
 do
 {
